@@ -1,4 +1,4 @@
-module github.com/hardfinhq/go-date
+module github.com/dkfbasel/date
 
 go 1.22.1
 
